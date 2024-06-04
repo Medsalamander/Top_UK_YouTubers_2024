@@ -38,13 +38,13 @@ The data used is sourced from Kaggle (an Excel extract). You can find it [here](
 
 ### Tools
 - Excel
-  - *Exploring the data*     
+  - Exploring the data     
 - SQL Server
-  - *Cleaning, testing, and analyzing the data*
+  - Cleaning, testing, and analyzing the data
 - Power BI
-  - *Visualizing the data using dashboards* 
+  - Visualizing the data using dashboards 
 - GitHub
-  - *Hosting/Version control*
+  - Hosting/Version control
   
 
 
