@@ -13,6 +13,17 @@
 - [References](#references)
 
 ### Project Overview
+  -Key Pain Point:
+The Head of Marketing needs to identify the top YouTubers in 2024 to choose the best candidates for marketing campaigns.
+
+Create a dashboard with insights on the top UK YouTubers in 2024, including:
+* 📊 Subscriber count
+* 📺 Total views
+* 🎥 Total videos
+* 📈 Engagement metrics
+
+This will enable the marketing team to make informed decisions on YouTuber collaborations for their campaigns.
+
 
 
 ### Data Sources
