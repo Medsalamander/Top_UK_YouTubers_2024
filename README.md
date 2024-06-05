@@ -54,6 +54,10 @@ The data used is sourced from Kaggle (an Excel extract). You can find it [here](
 
 
 ### Data Cleaning/Preparation
+The cleaned data must the following criteria
+- Retain only the relevant columns
+- Coumns must contain the apt data types
+- Completeness for all columns 
 
 
 ### Exploratory Data Analysis
